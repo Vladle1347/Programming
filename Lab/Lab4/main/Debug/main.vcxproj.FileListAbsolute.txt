@@ -1,2 +1,0 @@
-C:\Users\Vlad\Documents\GitHub\Programming\Lab\Lab4\main\Debug\main.exe
-C:\Users\Vlad\Documents\GitHub\Programming\Lab\Lab4\main\Debug\main.pdb
